@@ -1,0 +1,1 @@
+export const asciiArt = `Add ASCII Art Here`;
